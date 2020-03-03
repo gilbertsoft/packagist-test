@@ -1,0 +1,14 @@
+{
+    "name": "gilbertsoft/packagist-test",
+    "description": "Testing packagist",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Simon Gilli",
+            "email": "oss@gilbertsoft.org"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
