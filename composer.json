@@ -9,6 +9,9 @@
             "email": "oss@gilbertsoft.org"
         }
     ],
+    "support": {
+        "source": "https://github.com/gilbertsoft/test"
+    },
     "minimum-stability": "stable",
     "require": {}
 }
