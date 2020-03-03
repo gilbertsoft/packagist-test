@@ -1,0 +1,2 @@
+# packagist-test
+Testing packagist
