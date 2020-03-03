@@ -19,6 +19,6 @@
 		"slack": "https://typo3.slack.com",
 		"news": "nntp://lists.typo3.org"
 	},
-	"config": {    "minimum-stability": "stable",
+	"minimum-stability": "stable",
     "require": {}
 }
